@@ -1,8 +1,11 @@
-Titlul proiectului: Aplicație de Gestiune a unui Parc Auto (Proiect C / OpenGL)
+Project Title: Car Fleet Management Application (C / OpenGL Project)
 
-Descrierea proiectului:
+Project Description:
 
-- Am dezvoltat o aplicație în limbajul C pentru gestionarea detaliilor auto, utilizând vectori de tip struct pentru preluarea și procesarea datelor din fișiere text
-- Am implementat funcționalități de analiză a datelor, incluzând calculul mediei cailor putere, identificarea mașinii cu performanță maximă și algoritmi de sortare (descrescător după an și alfabetic)
-- Am creat o interfață de consolă interactivă care filtrează mașinile disponibile pe baza unui buget introdus și validat de utilizator
-- Am integrat un modul grafic folosind biblioteca OpenGL (GLUT) pentru generarea unui grafic de tip bar chart, reprezentând vizual puterea (HP) fiecărei mașini din portofoliu
+- I developed a C language application for managing car details, using struct-type vectors for retrieving and processing data from text files.
+
+- I implemented data analysis functionalities, including calculating the average horsepower, identifying the car with maximum performance, and sorting algorithms (descending by year and alphabetically).
+
+- I created an interactive console interface that filters available cars based on a user-inputted and validated budget.
+
+- I integrated a graphics module using the OpenGL library (GLUT) for generating a bar chart, visually representing the horsepower (HP) of each car in the portfolio.
